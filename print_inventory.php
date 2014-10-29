@@ -1,5 +1,5 @@
 <!-- 
-Description     : This is a view file for Print Inventory
+Description     : This is a view file for Print Inventory which displays the whole details in one single page
 Author          : Manish Sunthwal
 Updated Date    : 29-Oct-2014
 Version         : 1.0.0
